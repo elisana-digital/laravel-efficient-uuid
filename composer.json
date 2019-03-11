@@ -29,5 +29,6 @@
       "homepage": "https://dyrynda.com.au"
     }
   ],
-  "minimum-stability": "stable"
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
